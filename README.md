@@ -1,2 +1,2 @@
-# runpod
-RunPod Dockers
+# RunPod
+Dockerfiles for runpod.io
